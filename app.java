@@ -1,1 +1,0 @@
-it containes application data.
